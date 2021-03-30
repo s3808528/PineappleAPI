@@ -1,0 +1,294 @@
+[
+  {
+    "Customer_ID": "6062fc808649e199af85efbd",
+    "Cust_Name": "Jenifer Valentine",
+    "Wellbeing_Score": 81,
+    "PayCheck": "$1,087.50",
+    "currentBalance": "$2,900.19",
+    "Recent_Transactions": [
+      {
+        "accountingCode": {
+          "id": "6062fc807d2cbe77fe10d044",
+          "code": 1,
+          "name": "officia",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "veniam",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc80ad2df4fa0d5954a1",
+          "code": 1,
+          "name": "labore",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "sit",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": true
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc801a3e58b450e90ca4",
+          "code": 1,
+          "name": "excepteur",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "reprehenderit",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      }
+    ],
+    "email": "jenifervalentine@apextri.com",
+    "accounts": [
+      {
+        "id": 0,
+        "name": "WestBank",
+        "currentBalance": "$607.41"
+      },
+      {
+        "id": 1,
+        "name": "WestBank",
+        "currentBalance": "$474.42"
+      },
+      {
+        "id": 2,
+        "name": "WestBank",
+        "currentBalance": "$608.93"
+      }
+    ]
+  },
+  {
+    "Customer_ID": "6062fc80183b58bbc9df3edb",
+    "Cust_Name": "Rivera Vargas",
+    "Wellbeing_Score": 96,
+    "PayCheck": "$1,143.39",
+    "currentBalance": "$1,615.09",
+    "Recent_Transactions": [
+      {
+        "accountingCode": {
+          "id": "6062fc80d785ba0673728ec0",
+          "code": 1,
+          "name": "Lorem",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "ut",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc80f7c5384b2fecc5e2",
+          "code": 1,
+          "name": "laborum",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "anim",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": true
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc8066445c9f45577298",
+          "code": 1,
+          "name": "aute",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "fugiat",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": true
+      }
+    ],
+    "email": "riveravargas@apextri.com",
+    "accounts": [
+      {
+        "id": 0,
+        "name": "ANZ",
+        "currentBalance": "$814.69"
+      },
+      {
+        "id": 1,
+        "name": "Up Bank",
+        "currentBalance": "$1,261.09"
+      },
+      {
+        "id": 2,
+        "name": "Up Bank",
+        "currentBalance": "$548.59"
+      },
+      {
+        "id": 3,
+        "name": "WestBank",
+        "currentBalance": "$891.69"
+      },
+      {
+        "id": 4,
+        "name": "WestSide",
+        "currentBalance": "$976.50"
+      }
+    ],
+    "pendingPayments": "Apple Music"
+  },
+  {
+    "Customer_ID": "6062fc8058bae492b1593964",
+    "Cust_Name": "Gray Taylor",
+    "Wellbeing_Score": 98,
+    "PayCheck": "$1,443.40",
+    "currentBalance": "$3,188.00",
+    "Recent_Transactions": [
+      {
+        "accountingCode": {
+          "id": "6062fc80710fbe62bf5b963d",
+          "code": 1,
+          "name": "dolor",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "eu",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc804cff89832583a244",
+          "code": 1,
+          "name": "do",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "fugiat",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc80ca354e8926b16ab8",
+          "code": 1,
+          "name": "ad",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "nostrud",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      }
+    ],
+    "email": "graytaylor@apextri.com",
+    "accounts": [
+      {
+        "id": 0,
+        "name": "WestSide",
+        "currentBalance": "$452.92"
+      },
+      {
+        "id": 1,
+        "name": "WestBank",
+        "currentBalance": "$1,271.79"
+      },
+      {
+        "id": 2,
+        "name": "WestSide",
+        "currentBalance": "$978.28"
+      },
+      {
+        "id": 3,
+        "name": "ANZ",
+        "currentBalance": "$608.53"
+      },
+      {
+        "id": 4,
+        "name": "ANZ",
+        "currentBalance": "$742.90"
+      }
+    ]
+  },
+  {
+    "Customer_ID": "6062fc802a0e16dcb6ee6bea",
+    "Cust_Name": "Valenzuela Herrera",
+    "Wellbeing_Score": 85,
+    "PayCheck": "$1,023.40",
+    "currentBalance": "$1,496.25",
+    "Recent_Transactions": [
+      {
+        "accountingCode": {
+          "id": "6062fc800617483b11b6f5f4",
+          "code": 1,
+          "name": "nisi",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "voluptate",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": false
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc807c3e66210a8814ff",
+          "code": 1,
+          "name": "eiusmod",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "ipsum",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": true
+      },
+      {
+        "accountingCode": {
+          "id": "6062fc807d30108b66e1e6fa",
+          "code": 1,
+          "name": "id",
+          "quantity": 1,
+          "unitAmount": 200
+        },
+        "description": "laboris",
+        "quantity": 1,
+        "unitAmountExcludingTax": 200,
+        "unitAmountIncludingTax": 200,
+        "taxable": true
+      }
+    ],
+    "email": "valenzuelaherrera@apextri.com",
+    "accounts": [
+      {
+        "id": 0,
+        "name": "ANZ",
+        "currentBalance": "$1,131.01"
+      },
+      {
+        "id": 1,
+        "name": "WestBank",
+        "currentBalance": "$1,101.01"
+      }
+    ]
+  }
+]
